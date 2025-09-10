@@ -40,7 +40,7 @@ const About = () => {
               <div className="relative">
                 <div className="w-80 h-80 mx-auto rounded-2xl overflow-hidden shadow-2xl ring-8 ring-white/60">
                   <Image
-                    src="/images/profile.svg"
+                    src="/images/profile.jpg"
                     alt="Mounika Karri"
                     width={320}
                     height={320}

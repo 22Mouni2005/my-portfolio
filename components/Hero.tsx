@@ -37,7 +37,7 @@ const Hero = () => {
             className="w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden shadow-2xl ring-4 ring-white/60"
           >
             <Image
-              src="/images/profile.svg"
+              src="/images/profile.jpg"
               alt="Mounika Karri"
               width={128}
               height={128}
